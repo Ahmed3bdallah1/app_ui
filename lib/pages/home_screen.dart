@@ -4,7 +4,6 @@ import 'package:provider/provider.dart';
 import 'package:flutter_card_swiper/flutter_card_swiper.dart';
 import '../animations/fade_in_animation.dart';
 import '../themes/lists.dart';
-
 import '../widgets/bank_card.dart';
 import '../widgets/home_buttoms.dart';
 
