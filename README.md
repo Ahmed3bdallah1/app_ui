@@ -1,16 +1,13 @@
 # app_ui
 
-A new Flutter project.
+A financial app UI.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+⚫ Responsive UI: Delivers an optimal viewing experience across various screen sizes and devices.
 
-A few resources to get you started if this is your first Flutter project:
+⚫ Responsive Animation: Using custom FadeIn animation to have a nice animated experience. 
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+https://github.com/Ahmed3bdallah1/app_ui/assets/122252444/176d6cba-dabf-4e52-8b1f-6c3e664de1fc
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
